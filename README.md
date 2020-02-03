@@ -2,7 +2,7 @@
   <img src="./src/asserts/logo@3x.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">People</h3>
+<h3 align="center">HuntJS</h3>
 
 <div align="center">
 
